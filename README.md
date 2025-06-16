@@ -43,6 +43,18 @@ This demo project is using [Laravel Breeze](https://github.com/laravel/breeze) (
 
 ---
 
+## Images
+
+![](https://laraveldaily.com/uploads/2025/06/roadmap-homepage.png)
+
+![](https://laraveldaily.com/uploads/2025/06/roadmap-post.png)
+
+![](https://laraveldaily.com/uploads/2025/06/roadmap-dashboard.png)
+
+![](https://laraveldaily.com/uploads/2025/06/roadmap-posts-list.png)
+
+---
+
 ## How to use
 
 -   Clone the repository with **git clone**
